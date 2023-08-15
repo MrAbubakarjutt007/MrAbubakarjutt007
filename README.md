@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrabubakarjutt007" alt="mrabubakarjutt007" /></a> </p>
 
-- 🔭 I’m currently working on [MY_ PORTFOLIO](https://mrabubakarjutt007selfportfolio.netlify.app/)
+- 🔭 I’m currently working on [MY_ PORTFOLIO](https://mrabubakars007-animatedportfolio.netlify.app/)
 
 - 🌱 I’m currently learning **REACT,BOOTSTRAP**
 
 - 👯 I’m looking to collaborate on [Food_house](http://localhost/foodhouse/home.php)
 
-- 👨‍💻 All of my projects are available at [https://mrabubakarjutt007selfportfolio.netlify.app/](https://mrabubakarjutt007selfportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mrabubakars007-animatedportfolio.netlify.app/](https://mrabubakars007-animatedportfolio.netlify.app/)
 
 - 💬 Ask me about **REACT**
 
@@ -32,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrabubakarjutt007&show_icons=true&locale=en&layout=compact" alt="mrabubakarjutt007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrabubakarjutt007&show_icons=true&locale=en" alt="mrabubakarjutt007" /></p>
-
