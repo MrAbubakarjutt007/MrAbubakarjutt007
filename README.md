@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Food_house](http://localhost/foodhouse/home.php)
 
-- 👨‍💻 All of my projects are available at [https:https://mrabubakarjuttgoldenportfolio.netlify.app/](https:https://mrabubakarjuttgoldenportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mrabubakarjuttgoldenportfolio.netlify.app/](https://mrabubakarjuttgoldenportfolio.netlify.app/)
 
 - 💬 Ask me about **REACT**
 
