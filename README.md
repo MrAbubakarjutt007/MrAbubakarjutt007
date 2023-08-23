@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrabubakarjutt007" alt="mrabubakarjutt007" /></a> </p>
 
-- 🔭 I’m currently working on [MY_ PORTFOLIO](https://mrabubakars007-animatedportfolio.netlify.app/)
+- 🔭 I’m currently working on [MY_ PORTFOLIO](https://mrabubakarportfolioanimated.netlify.app/)
 
 - 🌱 I’m currently learning **REACT,BOOTSTRAP**
 
