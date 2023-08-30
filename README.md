@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **REACT,BOOTSTRAP**
 
-- 👯 I’m looking to collaborate on [Food_house](http://localhost/foodhouse/home.php)
+- 👯 I’m looking to collaborate on [Food_house](http://localhost/wordpress/)
 
 - 👨‍💻 All of my projects are available at [https://mrabubakarg-sportfolio.netlify.app/](https://mrabubakarg-sportfolio.netlify.app/)
 
